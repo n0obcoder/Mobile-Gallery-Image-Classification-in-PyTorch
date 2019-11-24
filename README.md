@@ -57,7 +57,7 @@ Opimizer     : Adam
 <img src='/images/test_image.png' width='350' alt='test_image' hspace='20'>
 
   * #### Output
-This Neural Network thinks that the given image belongs to >>> Memes <<< class with confidence of 95.21%
+    This Neural Network thinks that the given image belongs to >>> Memes <<< class with confidence of 95.21%
 
 ## Useful Links
 
