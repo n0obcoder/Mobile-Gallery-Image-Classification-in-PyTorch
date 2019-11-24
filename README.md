@@ -3,7 +3,7 @@ Multi-Class Image Classification using Transfer Learning on Mobile Gallery Image
 
 ## Introduction
 Using the images present in your mobile gallery to train an Image Classifier using Transfer-Learning ! :D
-<img src='/images/main.png' width='750' alt='loss after 12 epochs' hspace='35'>
+<img src='/images/main.png' width='750' alt='a meme which will be used for training an Image Classifier' hspace='35'>
 
 ## STEP 1: Building a Custom Dataset
 
@@ -33,4 +33,4 @@ A few of the sample images form the training set are shown below
 ## STEP 7: It's Testing Time !
 
 Test Image
-<img src='/images/test_image.png' width='750' alt='loss after 12 epochs' hspace='35'>
+<img src='/images/test_image.png' width='750' alt='test_image' hspace='20'>
