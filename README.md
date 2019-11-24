@@ -23,14 +23,23 @@ A few of the sample images form the training set are shown below
 ## STEP 2: Data Pre-Processing and Making DataLoaders
 
 ## STEP 3: Defining a Suitable Model and Making the Necessary Tweaks
+Architecture : Resnet34
 
 ## STEP 4: Transfer Learning by Freezing and Un-Freezing the Layers
+Used pretrained weights of the selected architecture
 
 ## STEP 5: Loss Function and Optimizer
+Loss Function: Cross Entropy
+Opimizer     : Adam
 
 ## STEP 6: Training and Validation
+Trained 'layer 4' and 'fc' for 5 epochs
+Then trained only 'fc' for 3 more epochs
 
 ## STEP 7: It's Testing Time !
 
-Test Image
+   ### Test Image
 <img src='/images/test_image.png' width='750' alt='test_image' hspace='20'>
+
+   ### Output
+This Neural Network thinks that the given image belongs to >>> Memes <<< class with confidence of 95.21%
