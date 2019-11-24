@@ -21,7 +21,7 @@ A few of the sample images form the training set are shown below
 <img src='/images/sample_training_images.jpg' width='750' alt='loss after 12 epochs' hspace='35'>
 
 ## STEP 2: Data Pre-Processing and Making DataLoaders
-Following are the transforms applied to the images while training and testing-
+Following are the transforms (ordered) applied to the images while training and testing-
 * Resizing to (224, 224)
 * Random Horizontal Flips (Only applied during the training phase)
 * ToTensor (to convert the images into tensors)
@@ -44,8 +44,12 @@ Loss Function: Cross Entropy
 Opimizer     : Adam
 
 ## STEP 6: Training and Validation
-Trained 'layer 4' and 'fc' for 5 epochs
-Then trained only 'fc' for 3 more epochs
+
+## Trained 'layer 4' and 'fc' for 5 epochs.
+<img src='/images/loss_plots_1.png' width='450' alt= 'loss_plots_1' hspace='35'>
+
+## Then trained only 'fc' for 3 more epochs
+<img src='/images/loss_plots_2.png' width='450' alt= 'loss_plots_2' hspace='35'>
 
 ## STEP 7: It's Testing Time !
 
