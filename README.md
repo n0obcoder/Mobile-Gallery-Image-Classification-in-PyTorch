@@ -53,14 +53,14 @@ Opimizer     : Adam
 
 ## STEP 7: It's Testing Time !
 
-   #### Test Image
+  * #### Test Image
 <img src='/images/test_image.png' width='350' alt='test_image' hspace='20'>
 
-   #### Output
+  * #### Output
 This Neural Network thinks that the given image belongs to >>> Memes <<< class with confidence of 95.21%
 
 ## Useful Links
 
-#### Kaggle Kernel   : https://www.kaggle.com/n0obcoder/mobile-gallery-image-classification-using-pytorch
+* #### Kaggle Kernel   : https://www.kaggle.com/n0obcoder/mobile-gallery-image-classification-using-pytorch
 
-#### Medium Blog Post: https://towardsdatascience.com/classification-of-mobile-gallery-images-in-pytorch-8ba2d32ce2bf
+* #### Medium Blog Post: https://towardsdatascience.com/classification-of-mobile-gallery-images-in-pytorch-8ba2d32ce2bf
