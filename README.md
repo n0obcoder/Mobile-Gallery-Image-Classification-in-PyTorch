@@ -1,5 +1,5 @@
 # Mobile-Gallery-Image-Classification-in-PyTorch
-Multi-Class Image Classification using Transfer Learning on Mobile Gallery Images in PyTorch
+Multi-Class Image Classification on Mobile Gallery Images using Transfer Learning in PyTorch.
 
 ## Introduction
 Using the images present in your mobile gallery to train an Image Classifier using Transfer-Learning ! :D
