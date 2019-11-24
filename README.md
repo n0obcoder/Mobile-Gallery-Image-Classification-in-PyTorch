@@ -45,10 +45,10 @@ Opimizer     : Adam
 
 ## STEP 6: Training and Validation
 
-## Trained 'layer 4' and 'fc' for 5 epochs.
+* ## Trained 'layer 4' and 'fc' for 5 epochs.
 <img src='/images/loss_plots_1.png' width='450' alt= 'loss_plots_1' hspace='35'>
 
-## Then trained only 'fc' for 3 more epochs
+* ## Then trained only 'fc' for 3 more epochs
 <img src='/images/loss_plots_2.png' width='450' alt= 'loss_plots_2' hspace='35'>
 
 ## STEP 7: It's Testing Time !
@@ -59,6 +59,8 @@ Opimizer     : Adam
    ### Output
 This Neural Network thinks that the given image belongs to >>> Memes <<< class with confidence of 95.21%
 
-### Useful Links
-## Kaggle Kernel   : https://www.kaggle.com/n0obcoder/mobile-gallery-image-classification-using-pytorch
-## Medium Blog Post: https://towardsdatascience.com/classification-of-mobile-gallery-images-in-pytorch-8ba2d32ce2bf
+## Useful Links
+
+#### Kaggle Kernel   : https://www.kaggle.com/n0obcoder/mobile-gallery-image-classification-using-pytorch
+
+#### Medium Blog Post: https://towardsdatascience.com/classification-of-mobile-gallery-images-in-pytorch-8ba2d32ce2bf
