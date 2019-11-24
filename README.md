@@ -29,7 +29,7 @@ Following are the transforms (ordered) applied to the images while training and 
 
 ## STEP 3: Defining a Suitable Model and Making the Necessary Tweaks
 Architecture : Resnet34
-
+I have replaced the last linear layer of the resnet34 with another linear layer which has 6 neurons present in it (6 is the number of classes present in the Mobile Gallery Image Dataset mentioned above in STEP 1). 
 <img src='/images/unleash_the_resnet34.jpg' width='750' alt= 'resnet34' hspace='35'>c
 
 ## STEP 4: Transfer Learning by Freezing and Un-Freezing the Layers
@@ -53,10 +53,10 @@ Opimizer     : Adam
 
 ## STEP 7: It's Testing Time !
 
-   ### Test Image
+   #### Test Image
 <img src='/images/test_image.png' width='350' alt='test_image' hspace='20'>
 
-   ### Output
+   #### Output
 This Neural Network thinks that the given image belongs to >>> Memes <<< class with confidence of 95.21%
 
 ## Useful Links
